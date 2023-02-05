@@ -1,0 +1,7 @@
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\bin\Debug\BT_Chung_2.exe
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\bin\Debug\BT_Chung_2.pdb
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\obj\Debug\BT_Chung_2.csproj.AssemblyReference.cache
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\obj\Debug\BT_Chung_2.csproj.CoreCompileInputs.cache
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\obj\Debug\BT_Chung_2.csproj.CopyComplete
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\obj\Debug\BT_Chung_2.exe
+D:\CODE\Code OMP\Alchemi\CK\BT_Chung_2\obj\Debug\BT_Chung_2.pdb

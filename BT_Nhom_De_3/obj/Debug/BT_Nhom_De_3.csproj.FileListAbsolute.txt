@@ -1,0 +1,7 @@
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\obj\Debug\BT_Nhom_De_3.csproj.AssemblyReference.cache
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\obj\Debug\BT_Nhom_De_3.csproj.CoreCompileInputs.cache
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\bin\Debug\BT_Nhom_De_3.exe
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\bin\Debug\BT_Nhom_De_3.pdb
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\obj\Debug\BT_Nhom_De_3.csproj.CopyComplete
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\obj\Debug\BT_Nhom_De_3.exe
+D:\CODE\Code OMP\Alchemi\CK\BT_Nhom_De_3\obj\Debug\BT_Nhom_De_3.pdb
