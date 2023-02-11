@@ -43,7 +43,7 @@ namespace eNumber
                 //Console.WriteLine("starting a thread to calculate the digits of e from { 0}to { 1}",StartDigitNum,StartDigitNum + NumForThisThread-1);
            
 
-E thread = new E(StartDigitNum, NumForThisThread);
+                E thread = new E(StartDigitNum, NumForThisThread);
                 App.Threads.Add(thread);
             }
             //Khởi tạo

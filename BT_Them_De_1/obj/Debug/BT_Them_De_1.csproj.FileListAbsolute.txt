@@ -5,3 +5,10 @@ D:\CODE\Code OMP\Alchemi\CK\BT_Them_De_1\bin\Debug\BT_Them_De_1.pdb
 D:\CODE\Code OMP\Alchemi\CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.csproj.CopyComplete
 D:\CODE\Code OMP\Alchemi\CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.exe
 D:\CODE\Code OMP\Alchemi\CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.pdb
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\bin\Debug\BT_Them_De_1.exe
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\bin\Debug\BT_Them_De_1.pdb
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.csproj.AssemblyReference.cache
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.csproj.CoreCompileInputs.cache
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.csproj.CopyComplete
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.exe
+D:\CODE\Code OMP\Alchemi\TTSS_CK\BT_Them_De_1\obj\Debug\BT_Them_De_1.pdb
